@@ -3,4 +3,4 @@ class Calculadora:
         return a + b
 
     def subtract(self, a, b):
-     return a + b   # error intencional
+     return a - b  
